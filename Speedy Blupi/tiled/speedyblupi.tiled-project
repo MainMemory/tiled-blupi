@@ -1,0 +1,143 @@
+{
+    "automappingRulesFile": "",
+    "commands": [
+    ],
+    "extensionsPath": "extensions",
+    "folders": [
+        "tilesets",
+        "../DATA"
+    ],
+    "propertyTypes": [
+        {
+            "color": "#ffa0a0a4",
+            "id": 1,
+            "members": [
+                {
+                    "name": "a_to_b_time",
+                    "type": "int",
+                    "value": 0
+                },
+                {
+                    "name": "a_wait",
+                    "type": "int",
+                    "value": 0
+                },
+                {
+                    "name": "b_to_a_time",
+                    "type": "int",
+                    "value": 0
+                },
+                {
+                    "name": "b_wait",
+                    "type": "int",
+                    "value": 0
+                },
+                {
+                    "name": "endpoint",
+                    "type": "object",
+                    "value": 0
+                },
+                {
+                    "name": "field_1C",
+                    "type": "int",
+                    "value": 0
+                },
+                {
+                    "name": "field_20",
+                    "type": "int",
+                    "value": 0
+                },
+                {
+                    "name": "field_24",
+                    "type": "int",
+                    "value": 0
+                },
+                {
+                    "name": "field_26",
+                    "type": "int",
+                    "value": 0
+                },
+                {
+                    "name": "field_28",
+                    "type": "int",
+                    "value": 0
+                },
+                {
+                    "name": "field_2E",
+                    "type": "int",
+                    "value": 0
+                },
+                {
+                    "name": "field_A",
+                    "type": "int",
+                    "value": 0
+                },
+                {
+                    "name": "type",
+                    "propertyType": "ObjectTypes",
+                    "type": "string",
+                    "value": "Lift"
+                }
+            ],
+            "name": "Object",
+            "type": "class",
+            "useAs": [
+                "object"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "ObjectTypes",
+            "storageType": "string",
+            "type": "enum",
+            "values": [
+                "Lift",
+                "Bomb",
+                "Hanging Bomb",
+                "Bulldozer",
+                "Treasure Chest",
+                "Egg",
+                "Goal",
+                "Explosion 1",
+                "Explosion 2",
+                "Explosion 3",
+                "Explosion 4",
+                "Wooden Case",
+                "Helicopter",
+                "Splash",
+                "Bubbles",
+                "Moving Bomb",
+                "Fish",
+                "Jeep",
+                "Bird",
+                "Key",
+                "Skateboard",
+                "Shield",
+                "Lollypop",
+                "Sparkles",
+                "Glue Tank",
+                "Glue Supply",
+                "Invisibility Potion",
+                "Recharging Device",
+                "Heliported Enemy",
+                "Motorized Enemy",
+                "Stuck Enemy",
+                "Inverter (II)",
+                "Wasp (II)",
+                "Hovercraft (II)",
+                "Lift With Conveyer Belt (II)",
+                "Red Key (II)",
+                "Green Key (II)",
+                "Blue Key (II)",
+                "Slime Creature (II)",
+                "Dynamite (II)",
+                "Homing Bomb (II)",
+                "Yellow Bomb",
+                "Orange Bomb",
+                "Blue Bomb",
+                "Green Bomb"
+            ],
+            "valuesAsFlags": false
+        }
+    ]
+}

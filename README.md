@@ -1,5 +1,5 @@
 # tiled-blupi
-Tiled extensions for Blupi map formats.
+[Tiled](https://www.mapeditor.org/) extensions for Blupi map formats.
 ![image](https://user-images.githubusercontent.com/6082665/199763579-3d3ac10d-ad32-4c60-b1ab-ff776b3b777b.png)
 Simply take the `tiled` folder for the game you want to edit and place it directly in the game's install folder, then open the `.tiled-project` file in Tiled.
 
